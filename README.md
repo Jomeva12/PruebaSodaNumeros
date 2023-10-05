@@ -15,7 +15,7 @@ https://git-scm.com/downloads
 
 ##Problema 1
 Implemente en su IDE Favorito y usando Java como lenguaje de programación un programada de consola que, dado un número entero, lleve a cabo las siguientes condiciones: ● Si es impar, imprimir “Quipux” 
-● Si es par y está en el rango inclusivo de 2 y 5, imprima “No Quipux” 
+● Si es par y está en el rango inclusivo de 2 y 5, imprima “No Quipux” \n
 ● Si es par y está en el rango inclusivo de 6 y 20, imprima “Quipux” 
 ● Si es par y es mayor que 20, imprima “No Quipux” 
 Formato de entrada Una sola línea que contiene un entero positivo.
